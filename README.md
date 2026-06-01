@@ -1,7 +1,6 @@
-## Hi there 👋
+ ABOUT ME :   
 
-<!--
-**Kashish-13/Kashish-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-I'm a Data Science and Analytics practitioner passionate about uncovering patterns, building predictive models, and creating impactful visualizations. My work combines machine learning, business intelligence, and data storytelling to bridge the gap between raw data and strategic decision-making. I enjoy exploring new technologies, solving complex problems, and developing solutions that create measurable value.
 
 Here are some ideas to get you started:
 
