@@ -4,7 +4,7 @@ I'm a Data Science and Analytics practitioner passionate about uncovering patter
 
               🌐 CONNECT WITH ME
                          kashisharya4915@gmail.com
-                         https://www.linkedin.com/in/kashish-arya-123456/
+                         in/kashish-arya-16a739378
                          
              💻 Tech Stack:
                          📊 Python • SQL • Excel • Power BI
