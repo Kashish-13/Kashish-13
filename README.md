@@ -5,7 +5,6 @@
 🌐 Connect With Me
               📧 Email: kashisharya4915@gmail.com
               
-              🔗 LinkedIn: [Kashish Arya](https://www.linkedin.com/in/kashish-arya-16a739378/)
 
 
 💻 Tech Stack
