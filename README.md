@@ -20,7 +20,7 @@ I'm a final-year B.Tech CSE student and an aspiring Data Scientist & Data Analys
  
 
 * 📊 Python • SQL • Excel • Power BI
-* 🤖 Machine Learning • Scikit-Learn • TensorFlow • PyTorch
+* 🤖 Machine Learning • Scikit-Learn • TensorFlow • PyTorch . Deep learning . gen AI . Agentic AI
 * 📈 Pandas • NumPy • Matplotlib • Seaborn
 * 🗄️ MySQL • Git • GitHub • Jupyter Notebook
 
