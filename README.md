@@ -11,7 +11,7 @@ I'm a final-year B.Tech CSE student and an aspiring AI & Data Science profession
  
  📧 Email: kashisharya4915@gmail.com
 
-🔗 LinkedIn: Kashish Arya
+🔗 LinkedIn: <https://www.linkedin.com/in/kashish-arya-16a739378>
 
 💻 GitHub: Kashish-13
 
