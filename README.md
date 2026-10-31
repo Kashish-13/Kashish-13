@@ -3,9 +3,9 @@ Hi, I'm Kashish Arya 👋
 
 🚀 About Me
 
+I'm a final-year B.Tech CSE student and an aspiring AI & Data Science professional passionate about building intelligent and data-driven solutions. I enjoy working with Machine Learning, Deep Learning, Generative AI, and Agentic AI to solve real-world problems and turn ideas into practical applications.
 
 
-I'm a final-year B.Tech CSE student and an aspiring AI and Data Science passionate about uncovering patterns, building predictive models, and creating impactful visualizations. My work combines machine learning, business intelligence, and data storytelling to transform raw data into actionable insights. I enjoy solving real-world problems through analytics and continuously exploring new technologies.
 
  🌐 Connect With Me
  
