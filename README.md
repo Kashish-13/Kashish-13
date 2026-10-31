@@ -19,11 +19,14 @@ I'm a final-year B.Tech CSE student and an aspiring AI & Data Science profession
 
  💻 Tech Stack
 
- 
+* 🐍 Python • SQL • Java • C++
+* 🤖 Machine Learning • Deep Learning • NLP • Generative AI • Agentic AI
+* 🧠 TensorFlow • PyTorch • Scikit-learn • LangChain
+* 🔎 RAG • LLMs • Embeddings • Vector Databases
+* 📊 Pandas • NumPy • Matplotlib • Seaborn • Power BI • Excel
+* 🔄 n8n • FastAPI • Streamlit
+* 🗄️ MySQL • MongoDB • Git • GitHub • Jupyter Notebook
 
-* 📊 Python • SQL • Excel • Power BI
-* 🤖 Machine Learning • Scikit-Learn • TensorFlow • PyTorch . Deep learning . gen AI . Agentic AI
-* 📈 Pandas • NumPy • Matplotlib • Seaborn
-* 🗄️ MySQL • Git • GitHub • Jupyter Notebook
+
 
 
