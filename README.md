@@ -18,7 +18,7 @@ I'm a final-year B.Tech CSE student and an aspiring AI & Data Science profession
 
 
 
-               🌐 Connect With Me
+               🌐 CONNECT WITH ME 
  
  📧 Email: kashisharya4915@gmail.com
 
