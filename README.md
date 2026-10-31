@@ -29,7 +29,7 @@ I'm a final-year B.Tech CSE student and an aspiring AI & Data Science profession
 
 
 
- 💻 Tech Stack
+                   💻 Tech Stack
 
 * 🐍 Python • SQL • Java • C++
 * 🤖 Machine Learning • Deep Learning • NLP • Generative AI • Agentic AI
